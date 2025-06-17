@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-Bapat
-- 👀 I’m interested in Data Science and Artificial Intelligence.
+- 🚀 Aspiring Data Scientist | Python • Machine Learning • Data Visualization, Passionate about solving real-world problems through data.
 - 📫 How to reach me: LinkedIn id: www.linkedin.com/in/bapat-aditya
 
 <!---
